@@ -4,5 +4,5 @@
 
 ## Key Features:
 
-- # Gemini Brilliance: # Explore the cutting-edge capabilities of Gemini in enhancing the bot's retrieval and generation mechanisms.
+- * Gemini Brilliance: * Explore the cutting-edge capabilities of Gemini in enhancing the bot's retrieval and generation mechanisms.
 - Code with elegance and efficiency to create an engaging user experience.
