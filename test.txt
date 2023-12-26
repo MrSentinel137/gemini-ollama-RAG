@@ -1,0 +1,14 @@
+Lacaille 9352 (Lac 9352) is a red dwarf star in the southern constellation of Piscis Austrinus. With an apparent visual magnitude of 7.34, 
+this star is too faint to be viewed with the naked eye except possibly under excellent seeing conditions. Parallax measurements place it at a distance of about 10.74 
+light-years (3.29 parsecs) from Earth.[1] It is the eleventh closest star system to the Solar System[14] and is the closest star in the constellation Piscis Austrinus. 
+The ChView simulation shows that its closest neighbour is the EZ Aquarii triple star system at about 4.1 ly away.
+
+This star has the fourth highest known proper motion, (which was first noticed by Benjamin Gould in 1881) moving a total of 6.9 arcseconds per year. 
+However, this is still a very small movement overall, as there are 3,600 arcseconds in a degree of arc. The space velocity components of this star are 
+(U, V, W) = (−93.9, −14.1, −51.4) km/s. If the radial velocity (Vr) equals +9.7 km/s then about 2,700 years ago Lacaille 9352 was at its minimal distance of 
+approximately 10.63 ly (3.26 pc) from the Sun.
+
+The spectrum of Lacaille 9352 places it at a stellar classification of M0.5V,indicating it is a type of main sequence star known as a red dwarf. 
+This was the first red dwarf star to have its angular diameter measured, with the physical diameter being about 47% of the Sun's radius.
+ It has around half the mass of the Sun and the outer envelope has an effective temperature of about 3,670 K.
+
