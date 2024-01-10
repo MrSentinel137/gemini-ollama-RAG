@@ -1,5 +1,6 @@
 langchain 
-chromadb 
+chromadb
+streamlit
 google-generativeai 
 langchain-google-genai 
 python-dotenv 
